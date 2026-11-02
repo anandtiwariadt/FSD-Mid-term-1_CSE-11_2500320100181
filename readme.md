@@ -1,14 +1,11 @@
-name-Anand tiwari
-
-lit=breary mangement stytem ''
-
-
-Roll no. 2500320100181
-cse 11
-mit term 1 
+Student Name: Ananad tiwari
+Roll Number: 2500320100181
+Branch: CSE
+Section: 11
+Project title: Library Management System
 
 
-title - Library management system
+
 n instructions 
 implemented api endpoints
 tech used
