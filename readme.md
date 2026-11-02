@@ -1,7 +1,11 @@
-Student Name: Ananad tiwari
+Student Name: Anand tiwari
+
 Roll Number: 2500320100181
+
 Branch: CSE
+
 Section: 11
+
 Project title: Library Management System
 
 
