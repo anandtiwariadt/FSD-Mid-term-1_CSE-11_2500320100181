@@ -1,0 +1,15 @@
+{
+  "name": "librarymanagementsystem",
+  "version": "1.0.0",
+  "description": "In-memory library management REST API built with Express by anand tiwari ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
